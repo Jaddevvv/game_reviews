@@ -1,2 +1,3 @@
 *.ipynb filter=strip-notebook-output
 *.ipynb filter=strip-notebook-metadata
+*.ipynb filter=nbstripout
